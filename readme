@@ -1,0 +1,44 @@
+# Hospital Patient Recovery Analysis System
+
+This project analyses hospital patient records to understand recovery outcomes, medical conditions, treatment costs, hospital stays, readmissions and patient satisfaction.
+
+## Business Problem
+
+To analyse hospital data and understand patient recovery patterns and hospital performance.
+
+## Dataset
+
+`hospital data analysis.csv` – 984 rows and 10 columns.
+
+The dataset includes patient age, medical condition, procedure, treatment cost, length of stay, readmission, outcome and satisfaction.
+
+## Key Features
+
+- Patient recovery analysis
+- Medical condition analysis
+- Hospital stay analysis
+- Treatment cost analysis
+- Readmission analysis
+- Patient satisfaction analysis
+- Search patient by ID
+- Generate hospital report
+
+## Technologies Used
+
+Python · Pandas · NumPy · Google Colab · Kaggle · GitHub
+
+## How to Run
+
+1. Open Google Colab.
+2. Upload `hospital data analysis.csv`.
+3. Install libraries using `!pip install pandas numpy`.
+4. Copy and run the project code.
+
+## Conclusion
+
+This project demonstrates how Python, Pandas and NumPy can be used to analyse hospital data and understand patient recovery patterns.
+
+## Author
+
+**ANUKALP PATHAK**, **ADMISSION NUMBER-2026B01010788**, ABES Engineering College
+
